@@ -1,0 +1,5 @@
+
+.icon-ios-category-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe912;&nbsp;'); }
+.icon-ios-default-icon { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf3cb;&nbsp;'); }
+.icon-ios-completed-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf3fe;&nbsp;'); }
+.icon-ios-gear { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf43d;&nbsp;'); }

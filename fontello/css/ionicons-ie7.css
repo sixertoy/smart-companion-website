@@ -1,0 +1,16 @@
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'ionicons';
+  font-style: normal;
+  font-weight: normal;
+ 
+  /* fix buttons height */
+  line-height: 1em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+}
+ 
+.icon-ios-category-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe912;&nbsp;'); }
+.icon-ios-default-icon { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf3cb;&nbsp;'); }
+.icon-ios-completed-outline { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf3fe;&nbsp;'); }
+.icon-ios-gear { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf43d;&nbsp;'); }
