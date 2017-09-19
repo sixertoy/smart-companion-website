@@ -1,0 +1,31 @@
+{
+  "name": "smart-companion-website",
+  "version": "0.1.0",
+  "description": "Smart Companion Website",
+  "main": "docs/index.html",
+  "private": true,
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sixertoy/smart-companion-website.git"
+  },
+  "author": "Matthieu Lassalvy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sixertoy/smart-companion-website/issues"
+  },
+  "homepage": "https://github.com/sixertoy/smart-companion-website#readme",
+  "devDependencies": {
+    "eslint": "^4.7.1",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.3.0",
+    "stylelint-config-standard": "^17.0.0"
+  }
+}

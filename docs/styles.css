@@ -8,8 +8,17 @@ body {
 }
 
 body {
+  color: #FFF;
   font-size: 11px;
+  line-height: 1.1em;
   background-color: #000;
+}
+
+#main-body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
 }
 
 #after-body {
