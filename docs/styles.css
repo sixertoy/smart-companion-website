@@ -1,0 +1,18 @@
+html,
+body {
+  min-height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 11px;
+  background-color: #000;
+}
+
+#after-body {
+  display: none;
+  visibility: hidden;
+}

@@ -1,1 +1,1 @@
-# smart-companion
+# Smart Companion
