@@ -1,1 +1,1 @@
-# Smart Companion
+# Smart Companion Wordpress Website
